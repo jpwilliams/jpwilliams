@@ -11,9 +11,11 @@ Here's a couple of things that I'm keeping busy with:
 
 <details>
   <summary>Check out some of my latest blog posts</summary>
-  - [Fetching the latest release of a GitHub package with Cloudflare Workers](https://jpwilliams.dev/cloudflare-worker-github-releases)
-  - [Nullish Short-Circuit Assignment in TypeScript 4.0 (beta)](https://jpwilliams.dev/nullish-short-circuit-assignment)
-  - [How to unpack the return type of a Promise in TypeScript](https://jpwilliams.dev/how-to-unpack-the-return-type-of-a-promise-in-typescript)
+  <br>
+  
+- [Fetching the latest release of a GitHub package with Cloudflare Workers](https://jpwilliams.dev/cloudflare-worker-github-releases)
+- [Nullish Short-Circuit Assignment in TypeScript 4.0 (beta)](https://jpwilliams.dev/nullish-short-circuit-assignment)
+- [How to unpack the return type of a Promise in TypeScript](https://jpwilliams.dev/how-to-unpack-the-return-type-of-a-promise-in-typescript)
 </details>
 
 <!--
