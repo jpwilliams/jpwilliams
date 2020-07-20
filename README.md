@@ -1,15 +1,20 @@
-### Hi there 👋
+### 👋 Hi! I'm Jack.
 
 I'm a **software developer** specialising in **Node.js** along with large portions of experience (and fun) working with **React** and **React Native**.
 
-🌱 I'm currently learning Svelte, figuring out cool things to do with Cloudflare Workers, and making [MIDI Mixer](https://mixi-mixer.com).
+Here's a couple of things that I'm keeping busy with:
 
-### 📘 Notebook
+- 👨🏻‍💻 Working as a Full Stack Developer at [Social Energy](https://social.energy).
+- 🎹 Creating [MIDI Mixer](https://midi-mixer.com), a Windows app that lets you control application volumes using MIDI.
+- ✍🏻 Writing tech blog posts over at [my notebook](https://jpwilliams.dev).
+- 🌱 Learning Svelte.
 
-- [Fetching the latest release of a GitHub package with Cloudflare Workers](https://jpwilliams.dev/cloudflare-worker-github-releases)
-- [Nullish Short-Circuit Assignment in TypeScript 4.0 (beta)](https://jpwilliams.dev/nullish-short-circuit-assignment)
-- [How to unpack the return type of a Promise in TypeScript](https://jpwilliams.dev/how-to-unpack-the-return-type-of-a-promise-in-typescript)
-
+<details>
+  <summary>Check out some of my latest blog posts</summary>
+  - [Fetching the latest release of a GitHub package with Cloudflare Workers](https://jpwilliams.dev/cloudflare-worker-github-releases)
+  - [Nullish Short-Circuit Assignment in TypeScript 4.0 (beta)](https://jpwilliams.dev/nullish-short-circuit-assignment)
+  - [How to unpack the return type of a Promise in TypeScript](https://jpwilliams.dev/how-to-unpack-the-return-type-of-a-promise-in-typescript)
+</details>
 
 <!--
 **jpwilliams/jpwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
