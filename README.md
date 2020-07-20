@@ -4,10 +4,10 @@ I'm a **software developer** specialising in **Node.js** along with large portio
 
 Here's a couple of things that I'm keeping busy with:
 
-- 👨🏻‍💻 Working as a Full Stack Developer at [Social Energy](https://social.energy).
-- 🎹 Creating [MIDI Mixer](https://midi-mixer.com), a Windows app that lets you control application volumes using MIDI.
-- ✍🏻 Writing tech blog posts over at [my notebook](https://jpwilliams.dev).
-- 🌱 Learning Svelte.
+- 👨🏻‍💻 Working as a Full Stack Developer at **[Social Energy](https://social.energy)**.
+- 🎹 Creating **[MIDI Mixer](https://midi-mixer.com)**, a Windows app that lets you control application volumes using MIDI.
+- ✍🏻 Writing tech blog posts over at **[my notebook](https://jpwilliams.dev)**.
+- 🌱 Learning **[Svelte](https://svelte.dev/)**.
 
 <details>
   <summary>Check out some of my latest blog posts</summary>
