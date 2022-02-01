@@ -1,12 +1,15 @@
 ### 👋 Hi! I'm Jack.
 
-I'm a **software developer** specialising in **Node.js** along with large portions of experience (and fun) working with **React** and **React Native**.
+I'm a **Senior Full Stack Developer** specialising in **TypeScript**, **GraphQL**, **event-driven architecture** and working towards the **perfect developer experience**.
+
+I specialise in architecting high-performance, event-driven, and distributed systems, finding great fun working with AWS, RabbitMQ, Redis, Golang, and a wide variety of tech stacks.
 
 Here's a couple of things that I'm keeping busy with:
 
-- 👨🏻‍💻 Working as a Senior Full Stack Developer at **[Social Energy](https://social.energy)**.
+- 👨🏻‍💻 Working as a **Senior Full Stack Developer** at **[Social Energy](https://social.energy)**.
 - 🎹 Creating **[MIDI Mixer](https://midi-mixer.com)**, a Windows app that lets you control application volumes using MIDI.
-- ✍🏻 Writing tech blog posts over at **[my notebook](https://jpwilliams.dev)**.
+- ✍🏻 Writing blog posts over at **[my notebook](https://jpwilliams.dev)**.
+- 🌱 Learning the **Flying Trapeze**.
 
 <details>
   <summary>Check out some of my latest blog posts</summary>
