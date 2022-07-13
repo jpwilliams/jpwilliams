@@ -1,12 +1,12 @@
 ### 👋 Hi! I'm Jack.
 
-I'm a **Senior Full Stack Developer** specialising in **TypeScript**, **GraphQL**, **event-driven architecture** and working towards the **perfect developer experience**.
+I'm a **Founding Engineer** at **[Inngest](https://www.inngest.com/)** working to bring the benefits of event-driven architecture to the masses.
 
-I specialise in architecting high-performance, event-driven, and distributed systems, finding great fun working with AWS, RabbitMQ, Redis, Golang, and a wide variety of tech stacks.
+I ❤️ **TypeScript**, **GraphQL**, **event-driven architecture** (obviously), and working towards the **perfect developer experience**, specialising in architecting high-performance, distributed systems.
 
-Here's a couple of things that I'm keeping busy with:
+Here are a few things I'm keeping busy with:
 
-- 👨🏻‍💻 Working as a **Senior Full Stack Developer** at **[Social Energy](https://social.energy)**.
+- 👨🏻‍💻 Working as a **Founding Engineer** at **[Inngest](https://www.inngest.com/)**.
 - 🎹 Creating **[MIDI Mixer](https://midi-mixer.com)**, a Windows app that lets you control application volumes using MIDI.
 - ✍🏻 Writing blog posts over at **[my notebook](https://jpwilliams.dev)**.
 - 🌱 Learning the **Flying Trapeze**.
