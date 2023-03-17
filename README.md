@@ -1,3 +1,12 @@
+# Jack Williams 👋
+
+**Currently:** Founding Engineer [@Inngest](https://www.inngest.com/)
+
+---
+
+<details>
+<summary>Original</summary>
+
 ### 👋 Hi! I'm Jack.
 
 I'm a **Founding Engineer** at **[Inngest](https://www.inngest.com/)** working to bring the benefits of event-driven architecture to the masses.
@@ -34,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</details>
